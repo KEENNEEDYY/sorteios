@@ -1,20 +1,8 @@
 
-#from typing import Sized
-#from pysnmp.hlapi import *
-#from random import shuffle
-#from pathlib import Path
-#import pyodbc
-#import time
+
 import paramiko
 import datetime
-#import mysql.connector
-#from scp import SCPClient
-#from multiprocessing.pool import ThreadPool
-#import smtplib
-#from email.mime.multipart import MIMEMultipart
-#from email.mime.text import MIMEText
-#from email.mime.base import MIMEBase
-#from email import encoders
+
 
 
 
