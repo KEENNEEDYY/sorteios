@@ -25,7 +25,7 @@ def connect(host, user, psw):
     return ssh
 
 def executerecorrente():
-    ssh = connect('10.0.25.67','admin','R0ck3t')
+    ssh = connect('IP-ADDRESS','admin','PASSWORD')
     ssh.exec_command('reboot')
     ssh.close()
 
