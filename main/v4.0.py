@@ -51,7 +51,7 @@ def aposta():
         time.sleep(0.25/random.choice(dado_viciado))
 
 
-for i in range(0,5):
+for i in range(0,840):
     aposta()
 
 with open('sorteados.txt', 'w') as file:
